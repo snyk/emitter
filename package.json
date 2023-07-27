@@ -1,15 +1,15 @@
 {
-  "name": "emitter",
+  "name": "@snyk/emitter",
   "repository": {
     "type": "git",
-    "url": "git@github.com:mango/emitter.git"
+    "url": "https://github.com/snyk/emitter.git"
   },
   "description": "A JavaScript event emitter written in ES6.",
   "author": {
     "name": "Guille Paz",
     "email": "guille87paz@gmail.com"
   },
-  "version": "0.0.7",
+  "version": "0.0.8",
   "scripts": {
     "test": "_mocha",
     "hint": "jshint ./src/index.js",
